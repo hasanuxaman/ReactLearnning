@@ -4,6 +4,7 @@ const arr1 = Array()
 
 let arr2 = new Array()
 
+
 console.log(arr1)
 console.log(arr2)
 
